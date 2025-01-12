@@ -1,3 +1,4 @@
 print("Hello World")
 print("SPICY")
-print("Banananananananananananananananananananana")
+print("not spicy")
+print("r'kay")
